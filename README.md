@@ -20,7 +20,7 @@
 #
 
 ![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg) ![Netflix Clone](https://wakatime.com/badge/github/bryanjug/netflix-clone.svg) ![Data Structures & Algorithms](https://wakatime.com/badge/github/bryanjug/ds_algos.svg)
-![Status for @bryanjug](https://badge.stateful.com/bryanjug/status.svg)
+![Status for @bryanjug](https://badge.stateful.com/bryanjug/dnd.svg)
 <!---
 bryanjug/bryanjug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
