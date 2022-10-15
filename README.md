@@ -17,19 +17,19 @@ I build applications from the ground up, which includes the research, planning, 
 #
 <br>
 
-<div>
+<div align="center">
   <a href="https://github.com/bryanjug/netflix-clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=netflix-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=netflix-clone&theme=dark&bg_color=60,0c0c0c,2b0077">
   </a>
-  <br>
-  <a href="https://wakatime.com/badge/github/bryanjug/netflix-clone"><img src="https://wakatime.com/badge/github/bryanjug/netflix-clone.svg" alt="wakatime"></a>
-</div>
-<div>
   <a href="https://github.com/bryanjug/ds_algos" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=ds_algos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=ds_algos&theme=dark&bg_color=60,0c0c0c,2b0077">
   </a>
-  <br>
-  <a href="https://wakatime.com/badge/github/bryanjug/ds_algos"><img src="https://wakatime.com/badge/github/bryanjug/ds_algos.svg" alt="wakatime"></a>
+  <a href="https://github.com/bryanjug/crypto-dashboard" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=crypto-dashboard&theme=dark&bg_color=60,0c0c0c,2b0077">
+  </a>
+  <a href="https://github.com/bryanjug/pomodoro" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=pomodoro&theme=dark&bg_color=60,0c0c0c,2b0077">
+  </a>
 </div>
 
 #
