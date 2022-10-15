@@ -14,7 +14,7 @@
 
 #
 
-![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=28&bg_color=DEG,#000000,#5600c6)
+![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=28&bg_color=#000000,#5600c6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug&layout=compact&theme=dark&langs_count=10)
 
 #
