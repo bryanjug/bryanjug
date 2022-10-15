@@ -17,9 +17,14 @@ I build applications from the ground up, which includes the research, planning, 
 #
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=netflix-clone)](https://github.com/bryanjug/netflix-clone)
-<a href="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699/project/9f2f66a7-a5c2-4000-8285-56a006d8de1c"><img src="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699/project/9f2f66a7-a5c2-4000-8285-56a006d8de1c.svg" alt="wakatime"></a>
-
+<div>
+  <a href="https://github.com/bryanjug/netflix-clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=netflix-clone">
+  </a>
+  <br> 
+  <a href="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699/project/9f2f66a7-a5c2-4000-8285-56a006d8de1c"><img          src="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699/project/9f2f66a7-a5c2-4000-8285-56a006d8de1c.svg" alt="wakatime"></a>
+</div>
+  
 #
 <br>
 
