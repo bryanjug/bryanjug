@@ -22,11 +22,11 @@
 
 #
 
-[![Bryan Jug's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bryanjug)](https://github.com/anuraghazra/github-readme-stats)
+[![Bryan Jug's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryanjug)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg)
+![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg) <a href="https://wakatime.com/@8638c9ab-2b3e-4e7f-b363-33cf54806699"><img src="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699.svg" alt="Total time coded since Oct 14 2022" /></a>
 
 <!---
 bryanjug/bryanjug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
