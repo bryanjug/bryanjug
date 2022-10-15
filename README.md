@@ -30,6 +30,9 @@ I build applications from the ground up, which includes the research, planning, 
   <a href="https://github.com/bryanjug/pomodoro" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=pomodoro&theme=dark&bg_color=60,0c0c0c,2b0077">
   </a>
+  <a href="https://github.com/bryanjug/art-contest" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=art-contest&theme=dark&bg_color=60,0c0c0c,2b0077">
+  </a>
 </div>
 
 #
