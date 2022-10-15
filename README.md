@@ -22,7 +22,7 @@ I build applications from the ground up, which includes the research, planning, 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=netflix-clone">
   </a>
   <br> 
-  <a href="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699/project/9f2f66a7-a5c2-4000-8285-56a006d8de1c"><img          src="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699/project/9f2f66a7-a5c2-4000-8285-56a006d8de1c.svg" alt="wakatime"></a>
+  <a href="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699/project/9f2f66a7-a5c2-4000-8285-56a006d8de1c"><img src="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699/project/9f2f66a7-a5c2-4000-8285-56a006d8de1c.svg" alt="wakatime"></a>
 </div>
   
 #
