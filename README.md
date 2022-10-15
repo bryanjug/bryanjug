@@ -18,7 +18,7 @@
 
 #
 
-<img align="center" src="https://wakatime.com/share/@Bryanjug/044f888d-033a-46fa-a25b-bb02e3e1e4f0.png" style="width:45%;"/> <img style="width:45%;" align="center" src="https://wakatime.com/share/@Bryanjug/8e09b562-cdfe-432e-b107-b046e7bd24ee.png" />
+<img align="center" src="https://wakatime.com/share/@Bryanjug/044f888d-033a-46fa-a25b-bb02e3e1e4f0.png" style="width:49%;"/> <img style="width:49%;" align="center" src="https://wakatime.com/share/@Bryanjug/8e09b562-cdfe-432e-b107-b046e7bd24ee.png" />
 
 #
 
