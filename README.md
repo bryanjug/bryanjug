@@ -10,8 +10,8 @@
 - Add how I build apps
 - Motivation
 - 
-![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug&layout=compact&theme=dark)
+![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true&include_all_commits=true&card_height=500px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug&layout=compact&theme=dark&card_height=500px)
 ![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg)
 <!---
 bryanjug/bryanjug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
