@@ -23,7 +23,7 @@
 
 #
 
-![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg) ![Netflix Clone]
+![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg)
 
 <!---
 bryanjug/bryanjug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
