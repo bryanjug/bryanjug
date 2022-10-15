@@ -19,7 +19,10 @@
 
 #
 
-<img src="https://wakatime.com/share/@Bryanjug/044f888d-033a-46fa-a25b-bb02e3e1e4f0.png" />
+<img 
+     styles="border-radius: 25px"
+     src="https://wakatime.com/share/@Bryanjug/044f888d-033a-46fa-a25b-bb02e3e1e4f0.png" 
+/>
 
 #
 
