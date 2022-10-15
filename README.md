@@ -22,7 +22,7 @@
 
 #
 
-[![Bryan Jug's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryanjug)](https://github.com/anuraghazra/github-readme-stats)
+![Bryan Jug's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryanjug)
 
 #
 
