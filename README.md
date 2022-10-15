@@ -11,7 +11,7 @@
 - Motivation
 - 
 ![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=gotham&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug&layout=compact&theme=gotham)
 ![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg)
 <!---
 bryanjug/bryanjug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
