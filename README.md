@@ -19,7 +19,7 @@
 
 #
 
-<figure><embed src="https://wakatime.com/share/@Bryanjug/a05e81f5-d7b6-4105-863e-59bdf8e8e397.svg"></embed></figure>
+<img src="https://wakatime.com/share/@Bryanjug/044f888d-033a-46fa-a25b-bb02e3e1e4f0.png" />
 
 #
 
