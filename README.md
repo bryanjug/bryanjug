@@ -1,4 +1,4 @@
-👾 <h1>Bryan Jug</h1>
+<h1>👾 Bryan Jug</h1>
 - 👋 Hi, I’m @bryanjug
 - 👀 I’m interested in web design, software development, cyber security, and AI. 
 - 🌱 I’m currently learning data structures and algorithms.
@@ -10,8 +10,8 @@
 - Add how I build apps
 - Motivation
 - 
-![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=gotham&count_private=true)](https://github.com/bryanjug/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug)](https://github.com/anuraghazra/github-readme-stats)
+![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=gotham&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug)
 ![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg)
 <!---
 bryanjug/bryanjug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
