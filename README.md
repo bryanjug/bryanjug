@@ -14,8 +14,8 @@
 
 #
 
-![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues,contribs&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug&layout=compact&theme=dark&langs_count=4)
+![Bryan Jug's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues,contribs&line_height=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug&layout=compact&theme=dark&langs_count=6)
 ![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg)
 <!---
 bryanjug/bryanjug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
