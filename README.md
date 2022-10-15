@@ -19,6 +19,9 @@
 
 #
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=28&bg_color=60,0c0c0c,2b0077&card_width=450"/>
+#
+
 <img src="https://wakatime.com/share/@Bryanjug/044f888d-033a-46fa-a25b-bb02e3e1e4f0.png" style="width:50%;"/>
 
 #
