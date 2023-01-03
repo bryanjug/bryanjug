@@ -1,8 +1,8 @@
 <h1>👾 Bryan Jug 👾</h1>
 <h4>About me</h4>
-👋 Hi, I’m @bryanjug. I’m interested in web design, software development, cyber security, and AI. I have an AS degree in web design and development and I specialize in full-stack development. I'm currently learning about data structures and algorithms. I’m looking to collaborate on anything that'll bring me a new challenge. You can reach me by going on my portfolio website: <a href="https://bryanjug.tech" target="_blank">Bryanjug.tech</a> and sending me a message through the contact form.
+👋 Hi, I’m @bryanjug and I would say that I'm most interested in web design, backend and frontend software development. I have an AS degree in web design and development and I'm currently learning about data structures and algorithms. I’m looking to collaborate on anything that will bring me a new and unique challenge. You can reach me by going on my portfolio website: <a href="https://bryanjug.tech" target="_blank">Bryanjug.tech</a> and sending me a message through the contact form.
 <br><br>
-I build applications from the ground up, which includes the research, planning, management, and implementation of every project requirement. My need to make the world a better place is what motivates me to code and design everyday.
+I build applications from the ground up, which includes the research, planning, management, and implementation of every project requirement. My hope to make the world a better place is what motivates me to code and design everyday.
 
 #
 <br>
