@@ -35,7 +35,9 @@ I build applications from the ground up, which includes the research, planning, 
   </a>
 </div>
 
+<!--
 #
 <br>
 
 ![status](https://badge.stateful.com/bryanjug/status.svg) ![status](https://badge.stateful.com/bryanjug/dnd.svg) <a href="https://wakatime.com/@8638c9ab-2b3e-4e7f-b363-33cf54806699"><img src="https://wakatime.com/badge/user/8638c9ab-2b3e-4e7f-b363-33cf54806699.svg" alt="Total time coded since Oct 14 2022" /></a>
+-->
