@@ -9,10 +9,10 @@ I build applications from the ground up, which includes the research, planning, 
 
 <img align="center" style="" src="https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=28&bg_color=60,0c0c0c,2b0077&card_width=480"/> <img align="center" style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjug&theme=dark&langs_count=10&bg_color=60,0c0c0c,2b0077&layout=compact"/>
 
-#
+<!-- #
 <br>
 
-<img align="center" src="https://wakatime.com/share/@Bryanjug/044f888d-033a-46fa-a25b-bb02e3e1e4f0.png" style="width:49%;"/> <img style="width:49%;" align="center" src="https://wakatime.com/share/@Bryanjug/8e09b562-cdfe-432e-b107-b046e7bd24ee.png" />
+<img align="center" src="https://wakatime.com/share/@Bryanjug/044f888d-033a-46fa-a25b-bb02e3e1e4f0.png" style="width:49%;"/> <img style="width:49%;" align="center" src="https://wakatime.com/share/@Bryanjug/8e09b562-cdfe-432e-b107-b046e7bd24ee.png" /> -->
 
 #
 <br>
