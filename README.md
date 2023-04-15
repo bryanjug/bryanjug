@@ -7,11 +7,6 @@ I build applications from the ground up, which includes the research, planning, 
 #
 <br>
 
-<img align="center" style="" src="https://github-readme-stats.vercel.app/api?username=bryanjug&show_icons=true&theme=dark&count_private=true&include_all_commits=true&line_height=28&bg_color=60,0c0c0c,2b0077&card_width=480"/> 
-
-#
-<br>
-
 <div align="center">
   <a href="https://github.com/bryanjug/netflix-clone" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bryanjug&repo=netflix-clone&theme=dark&bg_color=60,0c0c0c,2b0077">
