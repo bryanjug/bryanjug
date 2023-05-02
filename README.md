@@ -4,7 +4,7 @@
 <br><br>
 I build applications from the ground up, which includes the research, planning, management, and implementation of every project requirement. My hope to make the world a better place is what motivates me to code and design everyday.
 
-#
+<!--
 <br>
 
 <div align="center">
@@ -25,7 +25,7 @@ I build applications from the ground up, which includes the research, planning, 
   </a>
 </div>
 
-<!--
+
 #
 <br>
 
